@@ -1,1 +1,2 @@
-# divino_iraqwar
+With all the conflicts between countries and wars I think it’s important for people to experience how war effects cities and space in general, and be prepared.
+I decided to choose Iraq as it’s a country that has been in war for the last decade. Another reason being the war happened in the cities of Iraq, where it’s easier to observe the effects of war to the day to day life.  Making it easier to recreate the war-like feeling, thus achieving our goals.
